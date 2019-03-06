@@ -17,4 +17,6 @@ def fourth_challenge
 
       }
     }
+epic_traged[:montague][:hero][:status] = "dead"
+epic_traged[:capulet][:heroine][:status] = "dead"
 end
